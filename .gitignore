@@ -1,0 +1,8 @@
+*.aux
+*.fls
+*.log
+*.fdb_latexmk
+*.synctex.gz
+*.arff
+.idea/
+.vscode/
