@@ -6,3 +6,4 @@
 *.arff
 .idea/
 .vscode/
+.DS_Store
